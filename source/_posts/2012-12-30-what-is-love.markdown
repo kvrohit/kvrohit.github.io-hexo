@@ -8,6 +8,6 @@ tags      :
 categories:
 - blog
 ---
-![What is love?](/img/what-is-love.png)
+{% asset_img what-is-love.png %}
 
 And that, ladies and gentlemen is the answer to your question! Linux style :P
