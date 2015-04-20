@@ -1,0 +1,14 @@
+---
+layout    : post
+title     : "Standing"
+date      : 2014-02-16
+excerpt   : xkcd comic
+tags      :
+- funny
+- xkcd
+categories:
+- blog
+---
+![xkcd - Standing](http://imgs.xkcd.com/comics/standing.png)
+
+Source: [xkcd](http://xkcd.com/1329/)
