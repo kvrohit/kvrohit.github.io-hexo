@@ -40,7 +40,7 @@ $ npm -v
 
 It should return the version information in each case indicating that the programs are correctly installed.
 
-npm is a package manager for node; it makes it easy to install and manage additional node packages that your application may require. npm is a powerful tool as it automatically handles package dependencies.
+`npm` is a package manager for node; it makes it easy to install and manage additional node packages that your application may require. npm is a powerful tool as it automatically handles package dependencies.
 
 ### Initializing a node application
 
@@ -48,14 +48,12 @@ Every node application has a package.json file that contains a description about
 
 The package.json file can be created manually provided you know what all fields to include. To make this process simpler, npm offers the init command to create this file for you. To create an app follow these steps:
 
-1. Create a folder in your file system, give it a suitable name. For the purposes of this article the
-project that we'll be creating is called 'activate'
+1. Create a folder in your file system, give it a suitable name. For the purposes of this article the project that we'll be creating is called 'activate'
 2. Open a command window/terminal and type npm init
 3. Follow the onscreen instructions and fill in all the details about the application.
 4. After that is done, you will end up with a package.json file.
-An example package.json is shown below:
 
-Contents of package.json:
+An example package.json is shown below:
 
 ```javascript
 {
@@ -86,9 +84,9 @@ $ npm install express@3.15.2 --save
 
 This will do two things:
 
-1. Download and install express and all of its dependencies to this application's folder. These are
-stored under the node_modules directory.
-2. Creates an entry in the package.json file under the dependencies section
+1. Download and install express and all of its dependencies to this application's folder. These are stored under the node_modules directory.
+2. Creates an entry in the package.json file under the dependencies section.
+
 Here is a look at the updated package.json file:
 
 ```javascript
@@ -171,13 +169,11 @@ Now that we have this application running locally, the next step is to deploy it
 4. Key in application information
 5. Click create and if everything is successful you should see the application overview screen
 
-As you can see the default route is shown in the overview section, i.e.,
-http://activate.stage1.mybluemix.net/
+As you can see the default route is shown in the overview section, i.e., http://activate.stage1.mybluemix.net/
 
 ### Pushing your application to the cloud
 
-The final step is to push your application code to the cloud, i.e., to the Bluemix app that you just created. The pre-requisite for this is to install the cloud foundry deployment tools as mentioned in the
-pre-requisites section. To verify the cf command line tool's installation; open a terminal and type:
+The final step is to push your application code to the cloud, i.e., to the Bluemix app that you just created. The pre-requisite for this is to install the cloud foundry deployment tools as mentioned in the pre-requisites section. To verify the cf command line tool's installation; open a terminal and type:
 
 ```bash
 $ cf -v
@@ -217,14 +213,8 @@ In our case the 'node_modules' directory need not be uploaded as it will be crea
 
 You can add more entries separated by newlines to this file to ignore other folders or files
 
-After successful deployment you should see a message similar to this:
+After successful deployment you can go to the URL mentioned and take a look at your app running on Bluemix.
 
-And viola! You can go to the URL mentioned and take a look at your app running on Bluemix:
+Congratulations! With a few simple steps and configurations you have seen how easy it is to get started to build applications and deploy it on the Bluemix platform. Go ahead, create apps and share it with the rest of the world.
 
-Congratulations! With a few simple steps and configurations you have seen how easy it is to get started to build applications and deploy it on the Bluemix platform.
-
-Here is a set of resources to help you get more done with Bluemix:
-
-[Links]
-
-Go ahead, create apps and share it with the rest of the world. Cheers!
+Cheers!
