@@ -11,7 +11,7 @@ tags      :
 - kitkat
 - micromax canvas hd
 categories:
-- blog
+- tutorial
 ---
 Install Android Kitkat on Micromax Canvas HD (A116)
 
@@ -29,6 +29,8 @@ Prerequisites:
 2. Micromax drivers installed on your system
 
 Before you start, check out [Project Doge at xda-developers forum](http://forum.xda-developers.com/showthread.php?t=2663763) to an idea about this ROM
+
+<!-- more -->
 
 ### Step 1: Downloads
 

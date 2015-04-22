@@ -5,8 +5,6 @@ date      : 2012-12-30
 excerpt   : Read on...
 tags      :
 - funny
-categories:
-- blog
 ---
 {% asset_img what-is-love.png %}
 

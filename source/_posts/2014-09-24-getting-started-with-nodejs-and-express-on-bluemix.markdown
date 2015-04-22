@@ -8,7 +8,7 @@ tags      :
 - blumix
 - express
 categories:
-- blog
+- tutorial
 ---
 The purpose of this article is to give you a quick introduction to web application development using node.js and the express web application framework. It will guide you though the process of creating a simple web application and outline the steps involved in deploying this application on Bluemix.
 
@@ -28,6 +28,8 @@ Bluemix is an open-standards, cloud-based platform for building, managing, and r
 1. [Node.js](http://nodejs.org)
 2. [CloudFoundry deployment tools](https://github.com/cloudfoundry/cli#downloads)
 3. [Bluemix account](Sign up for free)
+
+<!-- more -->
 
 ### First steps
 

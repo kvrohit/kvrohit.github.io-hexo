@@ -6,8 +6,6 @@ excerpt   : xkcd comic
 tags      :
 - funny
 - xkcd
-categories:
-- blog
 ---
 ![xkcd - Standing](http://imgs.xkcd.com/comics/standing.png)
 

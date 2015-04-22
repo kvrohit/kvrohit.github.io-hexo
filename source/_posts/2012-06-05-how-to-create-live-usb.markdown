@@ -7,7 +7,7 @@ tags      :
 - linux
 - live usb
 categories:
-- blog
+- tutorial
 ---
 Ever wondered if you could create a live usb without using any third party software ? Read on...
 

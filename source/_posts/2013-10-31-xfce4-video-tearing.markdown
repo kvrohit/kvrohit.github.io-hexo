@@ -7,7 +7,7 @@ tags      :
 - linux
 - xfce
 categories:
-- blog
+- tutorial
 ---
 Xfwm 4.11 adds the sync to vblank feature; enable it to fix video tearing issues.
 

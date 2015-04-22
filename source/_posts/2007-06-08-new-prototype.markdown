@@ -7,8 +7,6 @@ tags      :
 - audio player
 - fmod
 - prototype
-categories:
-- blog
 ---
 ![New Prototype](http://3.bp.blogspot.com/_L4ZwP_X8bCo/RmmL7g35EXI/AAAAAAAAAA4/D7he4uW390c/s1600/GepScreen.bmp)
 

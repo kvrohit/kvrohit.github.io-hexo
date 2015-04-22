@@ -7,8 +7,6 @@ excerpt   : iAMP's Back!!
 tags      :
 - audio player
 - iamp
-categories:
-- blog
 ---
 ![iAmp](http://photos1.blogger.com/blogger/901/2661/1600/iAmp.2.gif)
 

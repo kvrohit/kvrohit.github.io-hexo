@@ -7,7 +7,7 @@ tags      :
 - linux
 - xfce
 categories:
-- blog
+- tutorial
 ---
 Binding hardware volume control to mixer
 

@@ -8,7 +8,7 @@ tags      :
 - bash
 - alias
 categories:
-- blog
+- tutorial
 ---
 The alias command can be quite useful for creating handy shortcuts and save you some typing. It has this general syntax:
 
